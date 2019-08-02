@@ -1,5 +1,5 @@
 {
-  "analyzer_name": "dev/badwords",
+  "analyzer_name": "defcon/<unique-name-here>-badwords",
   "author_name": "Isaac Evans",
   "author_email": "ine@mit.edu",
   "version": "0.0.1",
