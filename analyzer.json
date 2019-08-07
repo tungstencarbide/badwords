@@ -1,7 +1,7 @@
 {
   "analyzer_name": "defcon/<unique-name-here>-badwords",
-  "author_name": "Isaac Evans",
-  "author_email": "ine@mit.edu",
+  "author_name": "Ben Bitdiddle",
+  "author_email": "ben@benben.com",
   "version": "0.0.1",
   "spec_version": "1.2.0",
   "dependencies": {
