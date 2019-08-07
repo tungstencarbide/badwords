@@ -1,6 +1,6 @@
 # Analyzer name: badwords
 
-# Author name: Isaac Evans
+# Author name: Ben Bitdiddle
 
 # Description: Finds bad words in source code
 
